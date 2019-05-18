@@ -2,7 +2,7 @@ import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,
 
 body {
   padding:50px;
-  font:14px;
+  font:14px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .wrapper {
